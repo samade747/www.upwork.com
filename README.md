@@ -22,10 +22,10 @@ Based in Karachi, Pakistan, I leverage cloud platforms (**AWS**, **Google Cloud*
 ### ☁️ Cloud & DevOps
 - AWS, Google Cloud, Vercel, Netlify  
 - Docker, Git/GitHub/GitLab, CI/CD pipelines  
-- Databases: MySQL, PostgreSQL, SQLite, Redis
+- Databases: MySQL, PostgreSQL, SQLite, Redis, Mongodb
 
 ### 🛒 E-commerce & CMS
-- Shopify (Plus), WordPress, Sanity (Headless CMS)  
+- Shopify (Plus), WordPress, Sanity (Headless CMS), other te
 - Payment Gateway Integrations (Stripe, PayPal, etc.)
 
 ### 🤖 AI & Machine Learning
@@ -40,11 +40,11 @@ Based in Karachi, Pakistan, I leverage cloud platforms (**AWS**, **Google Cloud*
 
 ## 🧾 Certifications (Platform & Link)
 
-- **MERN Stack Developer (Certified)** – Saylani Mass IT (SMIT)  
-- **Next.js & Tailwind CSS (Certified)** – GIAIC (Generative AI & Informatics Council)  
-- **AI & Agentic AI (Certified)** – PIAIC/GIAIC (OpenAI Agents SDK)  
-- **Python OOP & AI (Certified)** – PIAIC/GIAIC  
-- **Full-Stack Web Development** – BanoQabil Karachi (JavaScript, HTML, CSS)  
+- **MERN Stack Developer (Certified)** – 
+- **Next.js & Tailwind CSS (Certified)** –  (Generative AI & Informatics Council)  
+- **AI & Agentic AI (Certified)** –  (OpenAI Agents SDK) 
+- **Python OOP & AI (Certified)** – 
+- **Full-Stack Web Development** –  (JavaScript, HTML, CSS)  
 - **Amazon Sponsored Ads Certification** – [Amazon Advertising](https://learningconsole.amazonadvertising.com/student/award/FE8n2meaiRvDgCx14J8KXYhW)  
 - **TypeScript Arrays** – [Coursera](https://coursera.org/share/3010f4428c41468c8d6d125092bd6f02)  
 - **GitHub Contributor (committers.top, Pakistan)** – [Top Profile](https://committers.top/pakistan#samade747)
@@ -92,12 +92,12 @@ _Karachi, 2024–Present_
 - Implemented user authentication, payment gateways, and integrated **Sanity CMS** for product management.
 
 ### 📈 Trader – Pakistan Stock Exchange (PSX)  
-_Karachi, 4+ Years_  
+_Karachi, 5+ Years_  
 - Handled **KATS** and **NDM** trading systems.  
 - Performed trade reconciliations and rectifications.
 
 ### 🏠 Property Sales & Purchases  
-_Karachi, 2+ Years_  
+_Karachi, 5+ Years_  
 - Managed property transactions, valuations, and client negotiations.
 
 ### 📣 Freelance Digital Marketer  
