@@ -93,6 +93,8 @@ _Karachi, 2024–Present_
 
 ### 📈 Trader – Pakistan Stock Exchange (PSX)  
 _Karachi, 5+ Years_  
+- **complaince and account opening psx**
+- **broker agent & traders**
 - Handled **KATS** and **NDM** trading systems.  
 - Performed trade reconciliations and rectifications.
 
